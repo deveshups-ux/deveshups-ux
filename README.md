@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm **Devesh Tiwari**  
-💻 **Full-Stack Developer & AI Systems Engineer**  
+💻 **Full-Stack & AI Developer**  
 🎓 **BCA (Class of 2027)** · 🚀 **Open to SDE Intern & AI Engineering Roles (Remote / Hybrid)**  
 🤖 Architecting autonomous multi-agent systems, scalable microservices & distributed cloud backends  
 🔭 **Shipped & Live:** [Kaido](https://kaido-sage.vercel.app) — Production Multi-Agent AI Platform  
